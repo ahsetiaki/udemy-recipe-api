@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3.10
 MAINTAINER Ariq Haryo Setiaki
 
 ENV PYTHONBUFFERED=1
